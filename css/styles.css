@@ -46,10 +46,11 @@ top:20px;
 }
 
 .mountain{
-position:absolute;
-bottom:5px;
-right:420px;
-
+position:relative;
+top:170px;
+right:10px;
+width:auto;
+height:auto;
 }
 
 .profilepic{
